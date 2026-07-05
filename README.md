@@ -2,6 +2,11 @@
 Machine learning project for predicting student GPA using Python and Scikit-learn.
 
 Dataset: https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
+
+## 🚀 Aplicación en línea
+
+🔗 https://student-performance-prediction-using-machine-learning-bqg7bwzs.streamlit.app/
+
 ## Tecnologías
 - Python
 - Pandas
